@@ -1,16 +1,28 @@
-## Hi there 👋
+# Bit Bard
+🎼Serenading the code🎸, but I can't carry a tune🎵:...
+## About
+I'm a novice/hobbyist software/game developer stumbling my way through the process
+- 🔭 I’m currently working on:
+  - GitHub basics
+  - Uploading my previous projects to GitHub
+- 🌱 I’m currently learning:
+  - Python
+  - C
+  - Pico-8
+  - Godot
+- 💬 Ask me about:
+  - My game ideas
 
+## In-Development:
+- Consolidated Steam Scraper
+- Python Network Monitor & ARP Spoofer
+
+## Completed:
+- None 😢
 <!--
-**BitBard-Dev/BitBard-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on: ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 📫 How to reach me: ...
 -->
