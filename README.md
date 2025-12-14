@@ -1,5 +1,5 @@
 # Bit Bard
-🎼Serenading the code🎸, but I can't carry a tune🎵:...
+🎼Serenading the code🎸, but I can't carry a tune🎵...
 ## About
 I'm a novice/hobbyist software/game developer stumbling my way through the process
 - 🔭 I’m currently working on:
